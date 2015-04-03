@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\bin\Debug\WestconSampleApp.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\bin\Debug\WestconSampleApp.exe
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\bin\Debug\WestconSampleApp.pdb
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\bin\Debug\WestconSampleClass.dll
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\bin\Debug\WestconSampleClass.pdb
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\obj\Debug\WestconSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\obj\Debug\WestconSampleApp.exe
+C:\Users\User\documents\visual studio 2013\Projects\WestconSampleClass\WestconSampleApp\obj\Debug\WestconSampleApp.pdb

@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\WestconSampleClass\WestconSampleClass\bin\Release\WestconSampleClass.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\WestconSampleClass\WestconSampleClass\bin\Release\WestconSampleClass.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\WestconSampleClass\WestconSampleClass\obj\Release\WestconSampleClass.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\WestconSampleClass\WestconSampleClass\obj\Release\WestconSampleClass.pdb
